@@ -1,0 +1,25 @@
+1. Printing in c plus plus is 
+	std::cout << "Hello";
+2. Inputting value like in int is 
+	int num;
+	std::cin >> num; //assume that our variable is num;
+3. Initializing variable is like so
+	int num = 5;
+4. Single Comments are used like this
+	// this is single line comment and not will be executed 
+5. Multiple Comments are used like this
+	/*
+		This is multiple-line comment
+		and all of this will not be executed
+	*/
+6. Increment sign is used like this
+	i = 0;
+	i++;
+	cout << i;
+7. Decrement sign is used like this
+	i = 1;
+	i--;
+	cout << i;
+8. boolean data type store true or false values
+9. char data type stores a single value
+10. To use the input and ouput(cout,cin) we need to include the <iostream>

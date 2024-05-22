@@ -1,0 +1,20 @@
+1. Switch cases are used like this
+	int num;
+	cin >> num;
+	switch(num){
+		case 0:
+			cout << "Hey";
+		break;
+		default:
+	}
+2. Do loops are executing the code block once before checking the condition
+3. Example of for loop
+	for(int i=0;i<5;i++){
+		cout << "hey dude number " << i << endl; 
+	}
+4. To declare an array 
+	string cars[4];
+	int num[3] = {1,2,3};
+5. Taking array values are like this
+	int num[3] = {1,2,3};
+	cout << num[2]; // note that the first index are 0 not 1 and this will print 3

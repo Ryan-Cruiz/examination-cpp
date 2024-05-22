@@ -1,0 +1,33 @@
+1. How to create reference in c plus plus?
+A. string &meal = food;
+B. string& meal = food;
+C. string meal = food;
+*
+2. How to create pointers in c plus plus?
+A. string ptr = &food;
+B. string* ptr = &food;
+C. string ptr = food;
+*
+3. How to dereference pointer in c plus plus?
+A. cout << ptr;
+B. cout << *ptr;
+C. cout >> *ptr;
+*
+4. What is the output of this?
+ string food = "Pizza";
+ string &meal = food;
+ cout << meal;
+--------
+A. Pizza
+B. Memory Address
+C. All of the above
+*
+5. What is the output of this?
+ string food = "Pizza";
+ string* ptr = &food;
+ cout << *ptr;
+--------
+A. Pizza
+B. Memory Address
+C. All of the above
+*

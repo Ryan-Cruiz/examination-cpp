@@ -1,0 +1,50 @@
+1. How to print in c plus plus? 
+A. cout << "Hello"; 
+B. cout << "hello" 
+C. cout >> "Hello";
+*
+2. How to input in c plus plus? 
+A. cin << num; 
+B. cin >> num; 
+C. cin >> num
+*
+3. How to initialize integer variable in c plus plus?
+A. let x = 5;
+B. int x = 5
+C. int x = 5;
+*
+4. How to single comment in c plus plus?
+A. //
+B. /**/
+C. //*
+*
+5. How to do multi-line comment
+A. //
+B. /**/
+C. //*
+*
+6. What sign is this ++ ?
+A. Decrement
+B. Increment
+C. Addition
+*
+7. What sign is this -- ?
+A. Increment
+B. Decrement
+C. Subtraction
+*
+8. Data type that store true or false values?
+A. int
+B. char
+C. boolean
+*
+9. Data type that store single character/letter/number, or ASCII values?
+A. char
+B. float
+C. int
+*
+10. What will you include if you are using input/output in c plus plus?
+A. #include <fstream>
+B. #include <iostream>
+C. #include <string>
+*

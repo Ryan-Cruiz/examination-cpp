@@ -1,0 +1,47 @@
+1. How to print in c plus plus? 
+A. cout << "Hello"; 
+B. cout << "hello" 
+C. cout >> "Hello";
+*
+2. How to input in c plus plus? 
+A. cin << num; 
+B. cin >> num; 
+C. cin >> num
+*
+3. How to initialize integer variable in c plus plus?
+A. let x = 5;
+B. int x = 5
+C. int x = 5;
+*
+4. How to single comment in c plus plus?
+A. //
+B. /**/
+C. //*
+*
+5. How to do multi-line comment
+A. //
+B. /**/
+C. //*
+*
+6.
+*
+7. How to make for loop in c plus plus?
+A. for(let i=0;i<5;i++)
+B. for(int i=0;i<5;i++)
+C. for($i=0;$i<5;$i++)
+*
+8. How to declare array?
+A. int[4] num;
+B. int num[4]
+C. int num[4];
+*
+9. How to print first data in array?
+A. cout << num[0];
+B. cout << num[1];
+C. cout << num[2];
+*
+10. What will you include if you are using input/output in c plus plus?
+A. #include <fstream>
+B. #include <iostream>
+C. #include <string>
+*

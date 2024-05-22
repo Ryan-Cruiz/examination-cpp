@@ -1,0 +1,13 @@
+1. Creating a reference
+	string food = "Pizza";  // food variable
+	string &meal = food;    // reference to food
+2. Creating a pointers
+	string food = "Burger"; // A food variable of type string
+
+	cout << food;  // Outputs the value of food (Pizza)
+	cout << &food; // Outputs the memory address of food 
+3. Dereferencing a pointer
+	string food = "Burger";  // Variable declaration
+	string* ptr = &food;    // Pointer declaration
+	// Dereference: Output the value of food with the pointer (Pizza)
+	cout << *ptr << "\n";

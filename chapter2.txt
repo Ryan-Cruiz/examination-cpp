@@ -1,0 +1,25 @@
+1. This condition uses cases
+A. switch
+B. if
+C. else if
+*
+2. Loop that will first execute code block once, before checking if the condition is true, and repeat as long as its condition is true
+A. do loop
+B. while loop
+C. For loop
+*
+3. How to make for loop in c plus plus?
+A. for(let i=0;i<5;i++)
+B. for(int i=0;i<5;i++)
+C. for($i=0;$i<5;$i++)
+*
+4. How to declare array?
+A. int[4] num;
+B. int num[4]
+C. int num[4];
+*
+5. How to print first data in array?
+A. cout << num[0];
+B. cout << num[1];
+C. cout << num[2];
+*
